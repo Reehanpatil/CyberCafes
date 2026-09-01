@@ -38,7 +38,10 @@
     {
       "id": "upsc-civil-services-2025",
       "title": "UPSC Civil Services",
-      "categories": ["latest-jobs", "central-jobs"],
+      "categories": [
+        "latest-jobs",
+        "central-jobs"
+      ],
       "location": "All India",
       "startDate": "2025-12-01",
       "lastDate": "2025-12-31",
@@ -79,7 +82,10 @@
     {
       "id": "ssc-cgl-2025",
       "title": "SSC CGL 2025",
-      "categories": ["latest-jobs", "central-jobs"],
+      "categories": [
+        "latest-jobs",
+        "central-jobs"
+      ],
       "location": "India",
       "startDate": "2025-01-10",
       "lastDate": "2025-02-10",
@@ -108,7 +114,10 @@
     {
       "id": "ibps-po-2025",
       "title": "IBPS PO 2025",
-      "categories": ["latest-jobs", "admit-card"],
+      "categories": [
+        "latest-jobs",
+        "admit-card"
+      ],
       "location": "All India",
       "startDate": "2025-08-01",
       "lastDate": "2025-09-15",
@@ -137,7 +146,10 @@
     {
       "id": "rrb-ntpc-2025",
       "title": "RRB NTPC 2025",
-      "categories": ["results", "central-jobs"],
+      "categories": [
+        "results",
+        "central-jobs"
+      ],
       "location": "All India",
       "startDate": "2025-03-01",
       "lastDate": "2025-04-15",
@@ -166,7 +178,9 @@
     {
       "id": "state-police-constable-2025",
       "title": "State Police Constable",
-      "categories": ["answer-key"],
+      "categories": [
+        "answer-key"
+      ],
       "location": "Karnataka",
       "startDate": "2025-05-01",
       "lastDate": "2025-06-01",
@@ -1702,6 +1716,19 @@
         {
           "label": "Vi Fancy/VIP Mobile Number",
           "url": "https://www.myvi.in/new-connection/choose-your-fancy-mobile-numbers-online",
+          "type": "official"
+        }
+      ]
+    },
+    {
+      "id": "svc-1788247959265",
+      "name": "New Service",
+      "description": "",
+      "icon": "Flame",
+      "sub_links": [
+        {
+          "label": "New Link",
+          "url": "https://",
           "type": "official"
         }
       ]
